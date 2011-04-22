@@ -1,4 +1,3 @@
-
 SUMMARY
 
 A very basic text to (OS X) speech to mp3 converter.
@@ -20,4 +19,5 @@ TODO
 -- HTML element
 -- check result of URL?=xxx
 
--script to update ln from some file mod date
+- script to update ln from some file mod date
+- upload mp3 somewhere
