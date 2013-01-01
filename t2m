@@ -34,7 +34,8 @@ _fn=${_fn:0:$((${#_fn}-${#_ext}))}
 
 # MAIN DIRECTIVES
 say -o $_dn/$_tn -f $1
-lame --silent $_dn/$_tn $_dn/$_fn.mp3 --ti coverart.png  --tt $_fn --ta 'JustSayen(TM)'
+lame --silent $_dn/$_tn $_dn/$_fn.mp3 --ti coverart.jpg  --tt $_fn --ta 'JustSayen(TM)'
+
 
 
 #CLEAN UP DIRECTIVE
