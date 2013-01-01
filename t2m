@@ -5,6 +5,25 @@
 # created : 19 April 2011
 # updated : 21 April 2011
 
+
+# PROCESS TODO 
+# 
+# check shell diffs
+# uploads AIFF to LAME
+# LAME processes, renames, moves to final destination
+ 
+# inputs:
+# HTML element 
+# check result of URL?=xxx 
+# script to update ln from some file mod date
+# upload mp3 somewhere
+
+
+# UI TODO
+#
+# OSX UI
+
+
 # VARS
 _tn=tmpFile.aiff
 _dn=`dirname "$1"`

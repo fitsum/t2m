@@ -6,18 +6,7 @@ Input file should be '.txt' format
 
 DEPENDENCIES
 
-- some *nx shell
+- *nx shell
 - LAME
-- Apple OS X say/Text to Speech
+- Apple OS X Say Command/Text to Speech
 
-
-TODO
-
-- check shell diffs
-- download LAME
-- inputs:
--- HTML element
--- check result of URL?=xxx
-
-- script to update ln from some file mod date
-- upload mp3 somewhere
