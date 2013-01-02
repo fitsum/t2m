@@ -9,9 +9,12 @@
 # PROCESS TODO 
 # 
 # check shell diffs
-# uploads AIFF to LAME
-# LAME processes, renames, moves to final destination
- 
+# curl AIFF to Apache/LAME
+# Trig PHP -> LAME
+# 	LAME processes, renames, moves to final destination
+# confirm file creation; TODO - confirm  steps 
+# Trig PHP -> Tweet
+
 # inputs:
 # HTML element 
 # check result of URL?=xxx 
