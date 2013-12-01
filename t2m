@@ -3,15 +3,13 @@
 
 # fitsumbelay@gmail.com
 # created : 19 April 2011
-# updated : 21 April 2011
+# updated : 30 December 2013
 
 
 # PROCESS TODO 
 # 
 # check shell diffs
-# curl AIFF to Apache/LAME
-# Trig PHP -> LAME
-# 	LAME processes, renames, moves to final destination
+# replace LAME with afconvert (sheesh)
 # confirm file creation; TODO - confirm  steps, playback option for local 
 # Trig PHP -> Tweet
 
