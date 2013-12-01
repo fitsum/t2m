@@ -9,7 +9,9 @@
 # PROCESS TODO 
 # 
 # check shell diffs
-# replace LAME with afconvert (sheesh)
+# curl AIFF to Apache/LAME
+# Trig PHP -> LAME
+#         LAME processes, renames, moves to final destination
 # confirm file creation; TODO - confirm  steps, playback option for local 
 # Trig PHP -> Tweet
 
