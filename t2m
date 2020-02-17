@@ -6,27 +6,6 @@
 # updated : 30 November 2013
 
 
-# PROCESS TODO 
-# 
-# check shell diffs
-# curl AIFF to Apache/LAME
-# Trig PHP -> LAME
-#         LAME processes, renames, moves to final destination
-# confirm file creation; TODO - confirm  steps, playback option for local 
-# Trig PHP -> Tweet
-
-# inputs:
-# HTML element 
-# check result of URL?=xxx 
-# script to update ln from some file mod date
-# upload mp3 somewhere
-
-
-# UI TODO
-#
-# OSX UI
-
-
 # VARS
 _tn=tmpFile.aiff
 _dn=`dirname "$1"`
@@ -40,3 +19,4 @@ lame  --silent $_dn/$_tn $_dn/$_fn.mp3  --tt $_fn --ta 'JustSayen(TM)' --ti cove
 
 #CLEAN UP DIRECTIVE
 rm $_dn/$_tn 
+
